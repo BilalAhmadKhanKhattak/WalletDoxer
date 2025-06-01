@@ -41,6 +41,7 @@ def main():
  """
     print(Fore.CYAN + banner)
     print(Fore.GREEN + f"LET ME SEE HOW RICH YOU REALLY ARE!")
+    print(Fore.LIGHTYELLOW + f"No Illegal Purpose Intended. Using This Tool Makes Only You Liable For Your Actions")
     address = input(Fore.CYAN + "Enter Bitcoin wallet address: ")
     # spin = spinner()
     print(Fore.YELLOW + "Fetching balance ", end="")
