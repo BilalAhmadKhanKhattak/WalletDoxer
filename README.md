@@ -49,5 +49,5 @@ pip install -r requirements.txt
 ## Disclaimer
 NO ILLEGAL USE INTENDED. USER IS THE ONLY ONE RESPONSIBLE FOR THE ACTIONS TAKEN.
 
-##SomeWords
+## SomeWords
 Actually, truth be told, we had the semester project for Computer Programming Subject, and believe me, I was just frustrated of those "student management systems, banking system, atm system" projects. So I just made something My-Type... 
