@@ -24,7 +24,7 @@ def get_balance(address):
 
 
 def main():
-    print(Fore.LIGHTYELLOW + f"No Illegal Purpose Intended. Using This Tool Makes Only You Liable For Your Actions")
+    print(Fore.LIGHTYELLOW_EX + f"No Illegal Purpose Intended. Using This Tool Makes Only You Liable For Your Actions")
     address = input(Fore.CYAN + "Enter Bitcoin wallet address: ")
     # spin = spinner()
     print(Fore.YELLOW + "Fetching balance ", end="")
