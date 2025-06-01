@@ -1,4 +1,4 @@
-# Bitcoin Wallet Balance Checker
+# WalletDoxer - Bitcoin Wallet Balance Checker
 
 A simple command-line tool to fetch and display Bitcoin wallet balances and transaction info using the BlockCypher API.
 
