@@ -30,6 +30,8 @@ A simple command-line tool to fetch and display Bitcoin wallet balances and tran
 
 ---
 
+##Screenshot
+![!image](https://github.com/BilalAhmadKhanKhattak/WalletDoxer/blob/main/ScreenshotWalletDoxer.png)
 ## Requirements
 
 - Python 3.x
